@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Coloque a sua logo aqui -->
-  <img src="https://github.com/snkfranco/Havoc-Injector/blob/main/Assets/havocinjector.png?raw=true" alt="Havoc Injector Logo" width="150">
+  <img src="https://github.com/snkfranco/Havoc-Injector/blob/main/Assets/havocinjector.png?raw=true" alt="Havoc Injector Logo" width="550">
 </p>
 
 <h1 align="center">Havoc Injector</h1>
