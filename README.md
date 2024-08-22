@@ -7,14 +7,14 @@
   Um simples injetor feito para facilitar a injeção de DLLs em processos via LoadLibrary.
 </p>
 
+## Sobre o Projeto
+
+Esse programa foi feito utilizando .NET Framework com a intenção de facilitar a injeção de DLLs em processos que permitem o método LoadLibrary. Por enquanto, o único método de injeção implementado é o **LoadLibrary**, mas uma atualização futura trará suporte para injeção via **Manual Mapping**.
+
 <p align="center">
   <!-- Coloque um gif ou imagem mostrando o funcionamento aqui -->
   <img src="https://github.com/snkfranco/Havoc-Injector/blob/main/Assets/injector.gif?raw=true" alt="Havoc Injector Demo" width="400"  style="border-radius: 15px;">
 </p>
-
-## Sobre o Projeto
-
-Esse programa foi feito utilizando .NET Framework com a intenção de facilitar a injeção de DLLs em processos que permitem o método LoadLibrary. Por enquanto, o único método de injeção implementado é o **LoadLibrary**, mas uma atualização futura trará suporte para injeção via **Manual Mapping**.
 
 ## Como Usar
 
