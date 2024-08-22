@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Coloque um gif ou imagem mostrando o funcionamento aqui -->
-  <img src="path/to/your/demo.gif" alt="Havoc Injector Demo" width="400">
+  <img src="https://github.com/snkfranco/Havoc-Injector/blob/main/Assets/injector.gif?raw=true" alt="Havoc Injector Demo" width="400">
 </p>
 
 ## Sobre o Projeto
