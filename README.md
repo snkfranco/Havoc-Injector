@@ -3,8 +3,6 @@
   <img src="https://github.com/snkfranco/Havoc-Injector/blob/main/Assets/havocinjector.png?raw=true" alt="Havoc Injector Logo" width="550">
 </p>
 
-<h1 align="center">Havoc Injector</h1>
-
 <p align="center">
   Um simples injetor feito para facilitar a injeção de DLLs em processos via LoadLibrary.
 </p>
