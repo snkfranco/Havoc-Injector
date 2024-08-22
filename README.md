@@ -18,7 +18,7 @@ Esse programa foi feito utilizando .NET Framework com a intenção de facilitar 
 
 ## Como Usar
 
-1. Baixe o executável da aba [**Releases**](https://github.com/seu-usuario/HavocInjector/releases).
+1. Baixe o executável da aba [**Releases**](https://github.com/snkfranco/Havoc-Injector/releases/tag/Havoc-Injector).
 2. Execute o programa e selecione o processo alvo.
 3. Escolha a DLL a ser injetada.
 4. Clique em "Injetar" para completar o processo.
